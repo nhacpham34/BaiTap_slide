@@ -1,0 +1,20 @@
+C:\Users\USER\source\repos\BTVN\BTVN\bin\Debug\BTVN.exe.config
+C:\Users\USER\source\repos\BTVN\BTVN\bin\Debug\BTVN.exe
+C:\Users\USER\source\repos\BTVN\BTVN\bin\Debug\BTVN.pdb
+C:\Users\USER\source\repos\BTVN\BTVN\obj\Debug\BTVN.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\BTVN\BTVN\obj\Debug\BTVN.Form1.resources
+C:\Users\USER\source\repos\BTVN\BTVN\obj\Debug\BTVN.Properties.Resources.resources
+C:\Users\USER\source\repos\BTVN\BTVN\obj\Debug\BTVN.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\BTVN\BTVN\obj\Debug\BTVN.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BTVN\BTVN\obj\Debug\BTVN.exe
+C:\Users\USER\source\repos\BTVN\BTVN\obj\Debug\BTVN.pdb
+C:\Users\itk40\OneDrive\Máy tính\.NET-FrameWork-master\.NET-FrameWork-master\BTVN\bin\Debug\BTVN.exe.config
+C:\Users\itk40\OneDrive\Máy tính\.NET-FrameWork-master\.NET-FrameWork-master\BTVN\bin\Debug\BTVN.exe
+C:\Users\itk40\OneDrive\Máy tính\.NET-FrameWork-master\.NET-FrameWork-master\BTVN\bin\Debug\BTVN.pdb
+C:\Users\itk40\OneDrive\Máy tính\.NET-FrameWork-master\.NET-FrameWork-master\BTVN\obj\Debug\BTVN.csprojAssemblyReference.cache
+C:\Users\itk40\OneDrive\Máy tính\.NET-FrameWork-master\.NET-FrameWork-master\BTVN\obj\Debug\BTVN.Form1.resources
+C:\Users\itk40\OneDrive\Máy tính\.NET-FrameWork-master\.NET-FrameWork-master\BTVN\obj\Debug\BTVN.Properties.Resources.resources
+C:\Users\itk40\OneDrive\Máy tính\.NET-FrameWork-master\.NET-FrameWork-master\BTVN\obj\Debug\BTVN.csproj.GenerateResource.cache
+C:\Users\itk40\OneDrive\Máy tính\.NET-FrameWork-master\.NET-FrameWork-master\BTVN\obj\Debug\BTVN.csproj.CoreCompileInputs.cache
+C:\Users\itk40\OneDrive\Máy tính\.NET-FrameWork-master\.NET-FrameWork-master\BTVN\obj\Debug\BTVN.exe
+C:\Users\itk40\OneDrive\Máy tính\.NET-FrameWork-master\.NET-FrameWork-master\BTVN\obj\Debug\BTVN.pdb
